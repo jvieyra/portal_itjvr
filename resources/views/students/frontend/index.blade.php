@@ -1,0 +1,1 @@
+<p> Hola estudiante {{ $student->name }}  </p>
